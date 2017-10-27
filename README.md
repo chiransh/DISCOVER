@@ -1,6 +1,6 @@
 # DISCOVER
-A sample Blog App based on "FIREBASE"
-Blog$pot is a sample base for any Blogging Application.
+A sample App based on "FIREBASE"
+DISCOVER is a sample base for any Blogging Application.
 
 
          Added   
