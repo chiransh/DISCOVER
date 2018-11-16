@@ -11,7 +11,7 @@ DISCOVER is a sample base for any Blogging Application.
          Profile and Account Setup.
       
          Created BY
-         Chiransh
-         gulatichiransh@gmail.com
+         Niranjan
+         dlengg.niranjan@gmail.com
 
 
